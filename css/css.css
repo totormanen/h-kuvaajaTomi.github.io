@@ -210,19 +210,13 @@ height: 20px;
 
 
 .footer {
-  text-align: center;
-  padding: 2px;
- 
-
   position: fixed;
-
-  background-color: #ffffff;
   bottom: 0;
   width: 100%;
-  margin-top: 20px;
-  text-shadow: 20px #000000;
-  
-  }
+  text-align: center;
+  padding: 10px 0;
+  background-color: #ffffff;
+}
 
 
 .logo-text {
