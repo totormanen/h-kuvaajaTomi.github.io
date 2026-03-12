@@ -248,7 +248,7 @@ height: 20px;
   z-index: -1;
 }
 
-#tyhja-boksi .arvostelu {
+.tyhja-boksi .arvostelu {
   font-family: 'Great Vibes', cursive; 
   font-size: 22px;
   color: #333;
@@ -261,4 +261,5 @@ height: 20px;
   font-weight: bold;
   font-style: normal;
 }
+
 
